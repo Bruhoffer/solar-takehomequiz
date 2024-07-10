@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 To preprocess and merge GHI and PR data, run the following script:
 
-    ```bash
+    
     jupyter notebook preprocess.ipynb
 
 This will generate a 'merged_data.csv' file containing the combined data, see: [merged_data.csv](merged_data.csv)
@@ -38,7 +38,7 @@ This will generate a 'merged_data.csv' file containing the combined data, see: [
 
 To visualize the performance ratios and other metrics, run the script:
 
-    ```bash
+    
     jupyter notebook datavisualisation.ipynb
 
 This script will generate visual outputs like 'output.png', see: ![Output Graph](output.png)
