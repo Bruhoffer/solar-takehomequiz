@@ -51,7 +51,6 @@ This script will generate visual outputs like 'output.png', see: ![Output Graph]
 - **merged_data.csv**: Single CSV file containing all merged data points.
 - **output.png**: Output graph generated from the visualization script.
 - **preprocess.ipynb**: Jupyter notebook for preprocessing and merging data.
-- **requirements.txt**: List of Python dependencies required for the project.
 
 
 ## Contact
