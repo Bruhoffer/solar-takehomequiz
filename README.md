@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/solar-takehomequiz.git]
+   git clone https://github.com/yourusername/solar-takehomequiz.git
    cd solar-data-analysis
 2. ** Ensure you have Python and Pip installed, then run:
    ```bash
